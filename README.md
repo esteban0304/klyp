@@ -1,2 +1,0 @@
-# klyp
-my site
